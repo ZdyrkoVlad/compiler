@@ -1,0 +1,12 @@
+PROCEDURE one;
+VAR A:EXT;
+
+BEGIN
+END;
+
+
+
+
+
+
+

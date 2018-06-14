@@ -1,0 +1,4 @@
+PROCEDURE one(A:EXT INTEGER;);
+(*WEF ef qeffew0209r09r2()(R)(093*)
+BEGIN
+END;
